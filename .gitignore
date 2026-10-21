@@ -1,0 +1,4 @@
+build/
+bloodbank
+data/
+*.tmp
